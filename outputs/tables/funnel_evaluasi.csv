@@ -1,0 +1,5 @@
+tahap,jumlah
+"pasangan (visitor,item) unik di testing",128227
+visitor dan item keduanya ada di training,8642
+belum pernah diakses di training (kandidat ground truth),6526
+visitor eligible (punya ground truth),2309

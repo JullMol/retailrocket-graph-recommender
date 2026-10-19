@@ -1,0 +1,4 @@
+sumber,relasi,target,jumlah
+Visitor,VIEWED,Item,210775
+Visitor,ADDED_TO_CART,Item,5257
+Visitor,BOUGHT,Item,1791

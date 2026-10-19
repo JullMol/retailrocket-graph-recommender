@@ -1,0 +1,21 @@
+{
+  "nama": "Dimas Rafi Izzulhaq",
+  "nim": "24031554084",
+  "train": [
+    "2015-07-23",
+    "2015-07-31"
+  ],
+  "test": [
+    "2015-08-01",
+    "2015-08-09"
+  ],
+  "seed": 4084,
+  "k": 5,
+  "n_ads": 3,
+  "top_n": 5,
+  "event_weight": {
+    "view": 1,
+    "addtocart": 2,
+    "transaction": 3
+  }
+}

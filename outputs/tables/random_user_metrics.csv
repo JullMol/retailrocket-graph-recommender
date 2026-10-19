@@ -1,0 +1,2 @@
+visitorid,proyeksi,k,Hit@5,NDCG@5,DCG@5,IDCG@5,Hit@3_iklan,NDCG@3_iklan,jumlah_ground_truth
+1126007,item,5,0.0,0.0,0.0,1.0,0.0,0.0,1

@@ -1,0 +1,2 @@
+keputusan,alasan,selisih_ndcg_item_minus_user,ci95_low,ci95_high,pairs_user_user,pairs_item_item
+item,item-kNN is significantly more effective (95% CI for the difference in NDCG@5 > 0),0.0040981688440169806,0.0003795932801920852,0.008006869784334009,1097071.0,863429.0

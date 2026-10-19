@@ -1,0 +1,16 @@
+# Virtual environment
+myenv/
+myvenv/
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Secrets and local configurations
+.env
+
+# PDF files
+*.pdf
+
+# Oversized raw zip (>100MB hard limit on GitHub)
+ecommerce-dataset.zip

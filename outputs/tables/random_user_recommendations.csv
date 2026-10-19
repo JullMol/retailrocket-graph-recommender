@@ -1,0 +1,6 @@
+peringkat,itemid,skor,sumber,visitorid,proyeksi,diiklankan
+1,18519,0.447214,knn,1126007,item,True
+2,200909,0.258199,knn,1126007,item,True
+3,149275,0.0,popularitas,1126007,item,True
+4,450209,0.0,popularitas,1126007,item,False
+5,347812,0.0,popularitas,1126007,item,False

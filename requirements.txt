@@ -1,0 +1,11 @@
+# Dependencies for the Data Science Graphs Midterm Exam (Python 3.10+)
+# Note: The requirements.txt file provided in the exam includes neo4j==4.2.1 (which lacks the `driver.execute_query` method) and `nose` (which is broken in Python >= 3.10).
+neo4j>=5.20,<6
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
+networkx>=3.2
+matplotlib>=3.8
+tqdm>=4.66
+ipykernel>=6.29
+jupyterlab>=4.0

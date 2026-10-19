@@ -14,3 +14,7 @@ __pycache__/
 
 # Oversized raw zip (>100MB hard limit on GitHub)
 ecommerce-dataset.zip
+
+# Scratch scripts
+scratch/
+
